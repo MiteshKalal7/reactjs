@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/MiteshKalal7/reactjs/static/css/main.0def0d83.chunk.css",
+    "main.js": "/MiteshKalal7/reactjs/static/js/main.a1aaccd7.chunk.js",
+    "main.js.map": "/MiteshKalal7/reactjs/static/js/main.a1aaccd7.chunk.js.map",
+    "runtime-main.js": "/MiteshKalal7/reactjs/static/js/runtime-main.a5bbf8c5.js",
+    "runtime-main.js.map": "/MiteshKalal7/reactjs/static/js/runtime-main.a5bbf8c5.js.map",
+    "static/css/2.12264522.chunk.css": "/MiteshKalal7/reactjs/static/css/2.12264522.chunk.css",
+    "static/js/2.cb0219ab.chunk.js": "/MiteshKalal7/reactjs/static/js/2.cb0219ab.chunk.js",
+    "static/js/2.cb0219ab.chunk.js.map": "/MiteshKalal7/reactjs/static/js/2.cb0219ab.chunk.js.map",
+    "index.html": "/MiteshKalal7/reactjs/index.html",
+    "precache-manifest.1dccad055ef272cfdd8b64c554ffcb8c.js": "/MiteshKalal7/reactjs/precache-manifest.1dccad055ef272cfdd8b64c554ffcb8c.js",
+    "service-worker.js": "/MiteshKalal7/reactjs/service-worker.js",
+    "static/css/2.12264522.chunk.css.map": "/MiteshKalal7/reactjs/static/css/2.12264522.chunk.css.map",
+    "static/css/main.0def0d83.chunk.css.map": "/MiteshKalal7/reactjs/static/css/main.0def0d83.chunk.css.map",
+    "static/js/2.cb0219ab.chunk.js.LICENSE.txt": "/MiteshKalal7/reactjs/static/js/2.cb0219ab.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/MiteshKalal7/reactjs/static/media/0.73476783.jpg",
+    "static/media/1.jpeg": "/MiteshKalal7/reactjs/static/media/1.ed986061.jpeg",
+    "static/media/10.jpeg": "/MiteshKalal7/reactjs/static/media/10.fe349e85.jpeg",
+    "static/media/2.jpeg": "/MiteshKalal7/reactjs/static/media/2.780ccb41.jpeg",
+    "static/media/3.jpeg": "/MiteshKalal7/reactjs/static/media/3.41bf3241.jpeg",
+    "static/media/4.jpeg": "/MiteshKalal7/reactjs/static/media/4.026cb7af.jpeg",
+    "static/media/5.jpeg": "/MiteshKalal7/reactjs/static/media/5.6e846951.jpeg",
+    "static/media/6.jpeg": "/MiteshKalal7/reactjs/static/media/6.47789d67.jpeg",
+    "static/media/7.jpeg": "/MiteshKalal7/reactjs/static/media/7.2835396c.jpeg",
+    "static/media/8.jpeg": "/MiteshKalal7/reactjs/static/media/8.10b775cc.jpeg",
+    "static/media/9.jpeg": "/MiteshKalal7/reactjs/static/media/9.565ad4a3.jpeg",
+    "static/media/UploadIcon.svg": "/MiteshKalal7/reactjs/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/shards-dashboards-logo.svg": "/MiteshKalal7/reactjs/static/media/shards-dashboards-logo.60a85991.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5bbf8c5.js",
+    "static/css/2.12264522.chunk.css",
+    "static/js/2.cb0219ab.chunk.js",
+    "static/css/main.0def0d83.chunk.css",
+    "static/js/main.a1aaccd7.chunk.js"
+  ]
+}
